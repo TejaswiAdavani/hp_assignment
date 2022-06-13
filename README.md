@@ -10,6 +10,7 @@ main.py <input_file> <output_file_path> <file_format> <delimiter_if_txt_format>
 Examples:
 
 main.py C:/Users/703232480/PycharmProjects/pythonProject/json.txt C:/Users/703232480/PycharmProjects/pythonProject json
+
 main.py C:/Users/703232480/PycharmProjects/pythonProject/text.txt C:/Users/703232480/PycharmProjects/pythonProject txt ,
 
 
